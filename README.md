@@ -6,3 +6,5 @@ through the online lessons in the [introduction to earth data science textbook o
 Here is some more text.
 
 Text as a test.
+
+adding more text using vim as a test (the push was a sucess if you are reading this on github!)
