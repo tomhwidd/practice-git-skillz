@@ -1,2 +1,3 @@
-testing out vim integration
+editing files with vim
+
 
